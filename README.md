@@ -301,6 +301,14 @@ dependencies:
   audioplayers: ^5.2.1
 
 flutter:
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+  
   assets:
     - assets/kuntilanak.mp3
     git tag v1.1
